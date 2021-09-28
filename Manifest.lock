@@ -209,7 +209,7 @@ DEPENDENCIES:
   - Kingfisher (~> 5.3.1)
   - lottie-ios (~> 3.0.7)
   - Moya/RxSwift (~> 13.0.1)
-  - Parchment (~> 3.0)
+  - Parchment
   - ReactorKit (~> 1.2.1)
   - RxCocoa (~> 4.5.0)
   - RxDataSources (~> 3.0)
@@ -340,6 +340,6 @@ SPEC CHECKSUMS:
   "UITextView+Placeholder": c407b27599ea23cca425946fee3cf1db5d547008
   WKCookieWebView: 528260c9cf7d89d312d61639cfca75c5618326a2
 
-PODFILE CHECKSUM: c75d70479aed2c9211a255c6c71b8be878c20fe2
+PODFILE CHECKSUM: cdb5e0c91b7e4a55bd68468a083d77da0cb0a473
 
 COCOAPODS: 1.9.3
